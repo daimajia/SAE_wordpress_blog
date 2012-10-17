@@ -1,0 +1,224 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Easy Uploader\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-07-03 00:31-0600\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Furkan Tastan <fur-kan-92@hotmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_c;__ngettext:1,2;__n:1,2;__ngettext_noop:1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "- or -"
+msgstr "- veya -"
+
+msgid "Archive removed"
+msgstr "Arsiv kaldirildi."
+
+msgid "Archive successfully extracted to %s"
+msgstr "Yüklediginiz arsiv %s yoluna basariyla açildi."
+
+msgid "Cheatin uh?"
+msgstr "Dolandirici ??"
+
+msgid "Configuration updated"
+msgstr "Uyum güncellendi."
+
+msgid "Destination"
+msgstr "Gönderilen yer"
+
+msgid "Error while saving options"
+msgstr "Ayarlar kaydedilirken hata olustu"
+
+msgid "Extract archived files"
+msgstr "Arsiv dosyalarini çikart"
+
+msgid "Extraction failed: %s"
+msgstr "Arsivden çikarma hatali: %s"
+
+msgid "Failed to write file to disk."
+msgstr "Dosyayi diske yazmakta hata olustu."
+
+msgid ""
+"File is empty. Please upload something more substantial. This error could "
+"also be caused by uploads being disabled in your php.ini."
+msgstr ""
+"Dosya bos. Lütfen minimum boyutta büyük dosyalar yükleyin. Bu hata "
+"sunucunuzdaki php.ini ayarlarindan da kaynaklanabilir."
+
+msgid "File successfully uploaded"
+msgstr "Dosya basariyla yüklendi."
+
+msgid "File type does not meet security guidelines. Try another."
+msgstr ""
+"Dosya tipi bizim güvenlik kriterlerimize uymuyor. Lütfen baska bir tanesini "
+"deneyin."
+
+msgid "Force files to be extracted inside a folder"
+msgstr "Arsiv dosyalarini klasörün içerisine çikar"
+
+msgid "From URL:"
+msgstr "URL'den"
+
+msgid "Hide"
+msgstr "Gizle"
+
+msgid "Invalid form submission."
+msgstr "Geçersiz!"
+
+msgid "Manual Path:"
+msgstr "Elle Yükleme:"
+
+msgid "Missing a temporary folder."
+msgstr "Geçiçi klasör kayboldu."
+
+msgid "No file was uploaded."
+msgstr "Hiç dosya yüklenmedi."
+
+msgid "Options"
+msgstr "Ayarlar"
+
+msgid "Original file overwritten."
+msgstr "Orijinal dosya üstüne yazildi."
+
+msgid "Overwrite existing file"
+msgstr "Mevcut olanin üstüne yaz"
+
+msgid "Path: %s"
+msgstr "Yol: %s"
+
+msgid "Plugin"
+msgstr "Eklenti"
+
+msgid "Previous directory paths (..) are not permitted in the Manual Path."
+msgstr "Önceki adres yolu (..) elle girilen adres yoluna izin vermiyor."
+
+msgid "Remove archive after successful extraction"
+msgstr "Basarili kurulumdan sonra arsiv dosyasini sil"
+
+msgid "Rename if file already exists (or if overwrite fails)"
+msgstr "Dosya varsa onu atla"
+
+msgid "Select From System:"
+msgstr "Bilgisayardan"
+
+msgid "Show"
+msgstr "Göster"
+
+msgid "Specified file failed upload test."
+msgstr "Özel dosya yükleme testi sirasinda basarisiz oldu."
+
+msgid "The Manual Path must be relative (cannot begin with \\ or /)."
+msgstr "Elle girilen yol dogru olmali. (// veya / ile baslamamali.)"
+
+msgid ""
+"The Uploads destination is the same area used for uploading images on the "
+"add post or add page editors. This location should be used for all standard "
+"file uploads."
+msgstr ""
+"Yüklenen yer yazi veya sayfa gönderirken eklenen resimlerin yoluyla "
+"benzerlik gösteriyor. Bu yer bütün dosya yüklemeleri için kullanildi."
+
+msgid ""
+"The file already exists. Since overwriting and renaming are not permitted, "
+"the file was not added."
+msgstr ""
+"Bu dosya zaten var. Üzerine yazilir ve kaldirilirken izin verilmedi, bu "
+"dosya eklenmedi."
+
+msgid ""
+"The following extensions are supported: zip, tar, gz, tar.gz, tgz, tar.bz2, "
+"and tbz."
+msgstr ""
+"Arsiv dosyalarini çikartmayi destekleyen formatlar: zip, tar, gz, tar.gz, "
+"tgz, tar.bz2 ve tbz"
+
+msgid ""
+"The manual path is relative to the root path of the WordPress installation. "
+"If the path doesn't exist, this program will attempt to create it before "
+"saving the file. Using previous directory (..) paths is not permitted."
+msgstr ""
+"Sunucunuz içerisinde farkli bir yere dosya yüklemek istiyorsaniz bu yeri "
+"kullanin. Yolu belirtirken // veya / ile baslamayin."
+
+msgid ""
+"The uploaded file could not be moved to %s. Please check the folder and file "
+"permissions."
+msgstr ""
+"Yüklenen dosya %s dizinine tasinamadi. Lütfen klasör ve dosya yazma "
+"izinlerini kontrol ediniz."
+
+msgid ""
+"The uploaded file exceeds the <code>upload_max_filesize</code> directive in "
+"<code>php.ini</code>."
+msgstr ""
+"Yüklenen dosya <code>upload_max_filesize</code> boyutunu geçiyor. (<code>php."
+"ini</code> dosyasindaki ayarlar)"
+
+msgid ""
+"The uploaded file exceeds the <em>MAX_FILE_SIZE</em> directive that was "
+"specified in the HTML form."
+msgstr ""
+"Yüklenen dosya <em>MAX_FILE_SIZE</em> boyutunu geçemez. (Özel HTML form "
+"ayarlari)"
+
+msgid "The uploaded file was only partially uploaded."
+msgstr "Yüklenen dosya içerisindekilerin bir kismi yüklendi."
+
+msgid "Theme"
+msgstr "Tema"
+
+msgid ""
+"This places the extracted files into a folder with the same name as the "
+"archive file without the extension."
+msgstr "Arsiv dosyasini ilave olmadan çikardi."
+
+msgid "URL: <a href=\"%s\" target=\"newUpload\">%s</a>"
+msgstr "URL: <a href=\"%s\" target=\"newUpload\">%s</a>"
+
+msgid ""
+"Unable to create path %s. Ensure that the web server has permission to write "
+"to the parent of this folder."
+msgstr ""
+"%s dosya yolu islevini göremiyor. Lütfen sunucunuzdaki yazma izinlerini "
+"kontrol edin."
+
+msgid "Unable to execute File_Archive::extract"
+msgstr "Gerçeklestiremez File_Archive::extract"
+
+msgid ""
+"Unable to overwrite existing file. Since renaming is permitted, the file was "
+"saved with a new name."
+msgstr "Dosyanin üstüne yazamaz.  Dosya yeni ismiyle kaydedildi."
+
+msgid "Unable to remove archive"
+msgstr "Arsivi kaldiramaz."
+
+msgid "Upload"
+msgstr "Yükle"
+
+msgid "Upload File"
+msgstr "Dosya Yükle"
+
+msgid "Upload Files"
+msgstr "Dosyalari Yükle"
+
+msgid "Uploads"
+msgstr "Yüklemeler"
+
+msgid "Use this destination if you are uploading a new plugin."
+msgstr "Eger bir eklenti yüklüyorsaniz bu yolu kullanin."
+
+msgid "Use this destination if you are uploading a theme."
+msgstr "Eger bir tema yüklüyorsaniz bu yolu kullanin."
+
+msgid "WP Easy Uploader"
+msgstr "WP Kolay Yükleyici"
+
+msgid "You must either provide a URL or a system file to upload."
+msgstr ""
+"Ikisinden birini (URL vermek veya Bilgisayardan yüklemek) seçmek zorundasin."

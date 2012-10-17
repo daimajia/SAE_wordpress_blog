@@ -1,0 +1,212 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Easy Uploader\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-07-03 00:31-0600\n"
+"PO-Revision-Date: \n"
+"Last-Translator: riku <lu.riku@gmail.com>\n"
+"Language-Team: Riku <lu.riku@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_c;__ngettext:1,2;__n:1,2;__ngettext_noop:1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "- or -"
+msgstr "- 或者 -"
+
+msgid "Archive removed"
+msgstr "存档文件已删除"
+
+msgid "Archive successfully extracted to %s"
+msgstr "文档已成功解压缩到 %s"
+
+msgid "Cheatin uh?"
+msgstr "Cheatin uh?"
+
+msgid "Configuration updated"
+msgstr "配置已更新"
+
+msgid "Destination"
+msgstr "目标"
+
+msgid "Error while saving options"
+msgstr "保存选项时出错"
+
+msgid "Extract archived files"
+msgstr "解压缩文件"
+
+msgid "Extraction failed: %s"
+msgstr "解压缩失败: %s"
+
+msgid "Failed to write file to disk."
+msgstr "文件写入到磁盘时失败."
+
+msgid ""
+"File is empty. Please upload something more substantial. This error could "
+"also be caused by uploads being disabled in your php.ini."
+msgstr ""
+"文件是空的,请再次上传有实质性内容的文件。这个错误也有可能是在php.ini中禁用了"
+"上传功能引起的。"
+
+msgid "File successfully uploaded"
+msgstr "文件已成功上传"
+
+msgid "File type does not meet security guidelines. Try another."
+msgstr "文件类型不符合安全准则,请尝试其它类型。"
+
+msgid "Force files to be extracted inside a folder"
+msgstr "把文件强制解压缩到文件夹中"
+
+msgid "From URL:"
+msgstr "通过URL抓取:"
+
+msgid "Hide"
+msgstr "隐藏"
+
+msgid "Invalid form submission."
+msgstr "提交无效"
+
+msgid "Manual Path:"
+msgstr "手工设置路径:"
+
+msgid "Missing a temporary folder."
+msgstr "无效的临时文件夹."
+
+msgid "No file was uploaded."
+msgstr "没有文件被上传."
+
+msgid "Options"
+msgstr "选项"
+
+msgid "Original file overwritten."
+msgstr "原文件已被覆盖"
+
+msgid "Overwrite existing file"
+msgstr "覆盖已存在的文件"
+
+msgid "Path: %s"
+msgstr "路径: %s"
+
+msgid "Plugin"
+msgstr "插件"
+
+msgid "Previous directory paths (..) are not permitted in the Manual Path."
+msgstr "前目录路径符径 (..) 不允许出现在手动路径中"
+
+msgid "Remove archive after successful extraction"
+msgstr "当解压缩成功后删除存档文件"
+
+msgid "Rename if file already exists (or if overwrite fails)"
+msgstr "假如文件已存在(或覆盖失败)的话重命名文件"
+
+msgid "Select From System:"
+msgstr "从本地系统选择文件:"
+
+msgid "Show"
+msgstr "显示"
+
+msgid "Specified file failed upload test."
+msgstr "指定的文件上传失败"
+
+msgid "The Manual Path must be relative (cannot begin with \\ or /)."
+msgstr "手动路径必须使用相对地址(不能开始于 \\ 或 / )."
+
+msgid ""
+"The Uploads destination is the same area used for uploading images on the "
+"add post or add page editors. This location should be used for all standard "
+"file uploads."
+msgstr ""
+"文件会被上传到通过日志编辑器上传图片一样的地方，通常是 wp-content/uploads 目"
+"录中。"
+
+msgid ""
+"The file already exists. Since overwriting and renaming are not permitted, "
+"the file was not added."
+msgstr "文件已存在，但由于不允许覆盖及重命名，因此文件没有被添加。"
+
+msgid ""
+"The following extensions are supported: zip, tar, gz, tar.gz, tgz, tar.bz2, "
+"and tbz."
+msgstr "支持的格式有: zip, tar, gz, tar.gz, tgz, tar.bz2, 和 tbz."
+
+msgid ""
+"The manual path is relative to the root path of the WordPress installation. "
+"If the path doesn't exist, this program will attempt to create it before "
+"saving the file. Using previous directory (..) paths is not permitted."
+msgstr ""
+"该手工路径是相对于Wordpress安装目录的根目录，假如路径不存在的话，该程序在保存"
+"上传的文件前会预先创建一个，不允许使用前目录符号(..) 。"
+
+msgid ""
+"The uploaded file could not be moved to %s. Please check the folder and file "
+"permissions."
+msgstr "上传的文件无法移动到 %s，请检查文件夹及文件的权限。"
+
+msgid ""
+"The uploaded file exceeds the <code>upload_max_filesize</code> directive in "
+"<code>php.ini</code>."
+msgstr ""
+"上传的文件超出了<code>upload_max_filesize（最大上传文件尺寸）</code> ，被指定"
+"于 <code>php.ini</code>中。"
+
+msgid ""
+"The uploaded file exceeds the <em>MAX_FILE_SIZE</em> directive that was "
+"specified in the HTML form."
+msgstr ""
+"上传的文件超出了 <em>MAX_FILE_SIZE（最大文件尺寸）</em>， 指令已被指定在HTML"
+"表单中。"
+
+msgid "The uploaded file was only partially uploaded."
+msgstr "文件只被上传了一部分。"
+
+msgid "Theme"
+msgstr "模版"
+
+msgid ""
+"This places the extracted files into a folder with the same name as the "
+"archive file without the extension."
+msgstr "选择此选项后，程序会把文件解压缩于与文件同名的目录中。"
+
+msgid "URL: <a href=\"%s\" target=\"newUpload\">%s</a>"
+msgstr "URL: <a href=\"%s\" target=\"newUpload\">%s</a>"
+
+msgid ""
+"Unable to create path %s. Ensure that the web server has permission to write "
+"to the parent of this folder."
+msgstr "无法创建路径 %s. 请确认主机有该文件夹父目录的写入权限."
+
+msgid "Unable to execute File_Archive::extract"
+msgstr "无法解压缩存档文件::解压"
+
+msgid ""
+"Unable to overwrite existing file. Since renaming is permitted, the file was "
+"saved with a new name."
+msgstr "无法覆盖已存在的文件，但允许重命名，文件已被保存为新名称。"
+
+msgid "Unable to remove archive"
+msgstr "无法删除存档文件"
+
+msgid "Upload"
+msgstr "上传"
+
+msgid "Upload File"
+msgstr "上传文件"
+
+msgid "Upload Files"
+msgstr "上传文件"
+
+msgid "Uploads"
+msgstr "上传"
+
+msgid "Use this destination if you are uploading a new plugin."
+msgstr "如果你是上传一个新插件的话，请使用此选项。"
+
+msgid "Use this destination if you are uploading a theme."
+msgstr "如果你是上传一个新模版的话，请使用此选项。"
+
+msgid "You must either provide a URL or a system file to upload."
+msgstr "在从URL或从系统中上传文件这两种方式中,你必须选择其中一种方式."

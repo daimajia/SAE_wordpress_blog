@@ -1,0 +1,247 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-07-03 00:31-0600\n"
+"PO-Revision-Date: \n"
+"Last-Translator: mts <mts@webdesign-in.de>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_c;__ngettext:1,2;__n:1,2;__ngettext_noop:1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wp-easy-uploader.php:130
+msgid "WP Easy Uploader"
+msgstr "WP Easy Uploader"
+
+#: wp-easy-uploader.php:130
+#: wp-easy-uploader.php:266
+msgid "Upload Files"
+msgstr "Dateien hochladen"
+
+#: wp-easy-uploader.php:181
+msgid "The Manual Path must be relative (cannot begin with \\ or /)."
+msgstr "Der Pfad mu&szlig; relativ sein (keine \\ oder / )."
+
+#: wp-easy-uploader.php:183
+msgid "Previous directory paths (..) are not permitted in the Manual Path."
+msgstr "Pfade zu &uuml;bergeordneten Ordnern  (..)sind hier nicht erlaubt. "
+
+#: wp-easy-uploader.php:195
+#, php-format
+msgid "Unable to create path %s. Ensure that the web server has permission to write to the parent of this folder."
+msgstr "Kann den Pfad nicht erstellen %s. Bitte kontrolliere die CHMOD Rechte per FTP Programm."
+
+#: wp-easy-uploader.php:210
+msgid "You must either provide a URL or a system file to upload."
+msgstr "Du mu&szlig;t hier entweder eine URL oder den Pfad der Datei angeben."
+
+#: wp-easy-uploader.php:215
+msgid "File successfully uploaded"
+msgstr "Hochgeladen! Super"
+
+#: wp-easy-uploader.php:228
+#, php-format
+msgid "Archive successfully extracted to %s"
+msgstr "Das Archiv wurde erfolgreich in %s angelegt."
+
+#: wp-easy-uploader.php:234
+msgid "Archive removed"
+msgstr "Archiv gel&ouml;scht."
+
+#: wp-easy-uploader.php:236
+msgid "Unable to remove archive"
+msgstr "Archiv kann nicht gelouml;scht werden."
+
+#: wp-easy-uploader.php:251
+#, php-format
+msgid "Path: %s"
+msgstr "Pfad: %s"
+
+#: wp-easy-uploader.php:252
+#, php-format
+msgid "URL: <a href=\"%s\" target=\"newUpload\">%s</a>"
+msgstr "URL: <a href=\"%s\" target=\"neuerUpload\">%s</a>"
+
+#: wp-easy-uploader.php:271
+msgid "Upload File"
+msgstr "Datei hochladen"
+
+#: wp-easy-uploader.php:274
+msgid "From URL:"
+msgstr "Von URL:"
+
+#: wp-easy-uploader.php:276
+msgid "- or -"
+msgstr "- oder -"
+
+#: wp-easy-uploader.php:278
+msgid "Select From System:"
+msgstr "Datei ausw&auml;hlen:"
+
+#: wp-easy-uploader.php:282
+msgid "Destination"
+msgstr "Uploadordner"
+
+#: wp-easy-uploader.php:284
+msgid "Uploads"
+msgstr "Uploads"
+
+#: wp-easy-uploader.php:286
+msgid "The Uploads destination is the same area used for uploading images on the add post or add page editors. This location should be used for all standard file uploads."
+msgstr "Der Uploadordner sollte derselbe sein, wie Du es sonst auch f&uuml;r Bilder und Dateien bestimmt hast. "
+
+#: wp-easy-uploader.php:288
+msgid "Plugin"
+msgstr "Plugin"
+
+#: wp-easy-uploader.php:290
+msgid "Use this destination if you are uploading a new plugin."
+msgstr "Nutze diesen Uploadordner, wenn Du ein Plugin hochladen magst."
+
+#: wp-easy-uploader.php:292
+msgid "Theme"
+msgstr "Theme"
+
+#: wp-easy-uploader.php:294
+msgid "Use this destination if you are uploading a theme."
+msgstr "Nutze diesen Uploadordner, wenn Du ein Theme hochladen magst."
+
+#: wp-easy-uploader.php:296
+msgid "Manual Path:"
+msgstr "Pfad manuell eingeben:"
+
+#: wp-easy-uploader.php:299
+msgid "The manual path is relative to the root path of the WordPress installation. If the path doesn't exist, this program will attempt to create it before saving the file. Using previous directory (..) paths is not permitted."
+msgstr "Der manuelle Pfad ist relativ zum Root Ordner von WP. Gibt es ihn nicht, wird er erstellt.&Uuml;bergeordnete Ordner sind nicht erlaubt (..)."
+
+#: wp-easy-uploader.php:303
+msgid "Options"
+msgstr "Auswahl"
+
+#: wp-easy-uploader.php:305
+msgid "Overwrite existing file"
+msgstr "Vorhandene Datei &uuml;berschreiben."
+
+#: wp-easy-uploader.php:306
+msgid "Rename if file already exists (or if overwrite fails)"
+msgstr "Umbenennen, wenn es die Datei bereits gibt (oder wenn das &Uuml;berschreiben nicht gelingt)."
+
+#: wp-easy-uploader.php:307
+msgid "Extract archived files"
+msgstr "Datei entpacken"
+
+#: wp-easy-uploader.php:309
+msgid "The following extensions are supported: zip, tar, gz, tar.gz, tgz, tar.bz2, and tbz."
+msgstr "Folgende Dateien sind erlaubt: zip, tar, gz, tar.gz, tgz, tar.bz2, and tbz."
+
+#: wp-easy-uploader.php:310
+msgid "Remove archive after successful extraction"
+msgstr "Archiv nach dem Entpacken l&ouml;schen"
+
+#: wp-easy-uploader.php:311
+msgid "Force files to be extracted inside a folder"
+msgstr "Entpacke in einen Ordner"
+
+#: wp-easy-uploader.php:313
+msgid "This places the extracted files into a folder with the same name as the archive file without the extension."
+msgstr "Entpacke die Datei in einen Ordner, der so hei&szlig;t wie die Datei (ohne Dateiendung)."
+
+#: wp-easy-uploader.php:320
+msgid "Upload"
+msgstr "Upload"
+
+#: wp-easy-uploader.php:361
+msgid "Show"
+msgstr "Anzeigen"
+
+#: wp-easy-uploader.php:363
+msgid "Hide"
+msgstr "Verstecken"
+
+#: wp-easy-uploader.php:408
+msgid "Cheatin uh?"
+msgstr "Crazy oder?"
+
+#: wp-easy-uploader.php:428
+msgid "Configuration updated"
+msgstr "Einstellungen gespeichert"
+
+#: wp-easy-uploader.php:430
+msgid "Error while saving options"
+msgstr "Ein Fehler hat sich beim Speichern eingestellt."
+
+#: wp-easy-uploader.php:525
+#: wp-easy-uploader.php:714
+msgid "The file already exists. Since overwriting and renaming are not permitted, the file was not added."
+msgstr "Die Datei ist da. Nur das &Uuml;berschreiben oder Umbenennen hat nicht geklappt, die Datei wurde nicht hinzuge&uuml;gt."
+
+#: wp-easy-uploader.php:535
+#: wp-easy-uploader.php:540
+#: wp-easy-uploader.php:722
+#: wp-easy-uploader.php:727
+#, php-format
+msgid "The uploaded file could not be moved to %s. Please check the folder and file permissions."
+msgstr "Die Datei kann nicht nach %s verschoben werden. Bitte kontrollier die CHMOD Rechte."
+
+#: wp-easy-uploader.php:537
+#: wp-easy-uploader.php:724
+msgid "Unable to overwrite existing file. Since renaming is permitted, the file was saved with a new name."
+msgstr "Das &Uuml;berschreiben hat nicht geklappt.Die Datei wurde unter neuen Namen abgespeichert."
+
+#: wp-easy-uploader.php:543
+msgid "Original file overwritten."
+msgstr "Datei &uuml;berschriebn"
+
+#: wp-easy-uploader.php:639
+msgid "The uploaded file exceeds the <code>upload_max_filesize</code> directive in <code>php.ini</code>."
+msgstr "Die Datei ist zu gro&szlig; Der Wert <code>upload_max_filesize</code> in <code>php.ini</code> mu&szlig; erh&ouml;ht werden."
+
+#: wp-easy-uploader.php:640
+msgid "The uploaded file exceeds the <em>MAX_FILE_SIZE</em> directive that was specified in the HTML form."
+msgstr "Die Datei ist gr&ouml;&szlig;er, als die  <em>MAX_FILE_SIZE</em> Direktive f&uuml;r  HTML erlaubt."
+
+#: wp-easy-uploader.php:641
+msgid "The uploaded file was only partially uploaded."
+msgstr "Nur Teile der Datei wurden hochgeladen."
+
+#: wp-easy-uploader.php:642
+msgid "No file was uploaded."
+msgstr "Keine Datei wurde hochgeladen."
+
+#: wp-easy-uploader.php:643
+msgid "Missing a temporary folder."
+msgstr "Der temporary Ordner fehlt."
+
+#: wp-easy-uploader.php:644
+msgid "Failed to write file to disk."
+msgstr "Kann die Datei nicht schreiben."
+
+#: wp-easy-uploader.php:667
+msgid "Invalid form submission."
+msgstr "Bei der &Uuml;bertragung ging was schief."
+
+#: wp-easy-uploader.php:675
+msgid "File is empty. Please upload something more substantial. This error could also be caused by uploads being disabled in your php.ini."
+msgstr "Datei ist leer. Bitte lade was hoch. Eventuell ist das Hochladen in der  php.ini verboten."
+
+#: wp-easy-uploader.php:679
+msgid "Specified file failed upload test."
+msgstr "Der Testuplaod funktionierte nicht."
+
+#: wp-easy-uploader.php:688
+msgid "File type does not meet security guidelines. Try another."
+msgstr "Die Datei widerspricht den Sicherheitsrichtlinien. Versuche eine andere."
+
+#: wp-easy-uploader.php:777
+#, php-format
+msgid "Extraction failed: %s"
+msgstr "Entacken funktionierte nicht: %s"
+
+#: wp-easy-uploader.php:782
+msgid "Unable to execute File_Archive::extract"
+msgstr "Habe keine Rechte das  File_Archive::extract auszuf&uuml;hren"
+
